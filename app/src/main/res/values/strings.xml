@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DataPesa</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="app_subtitle">DataPesa Android App</string>
+    <string name="button_click_me">Click Me</string>
+    <string name="waiting_text">Waiting for click...</string>
+    <string name="clicked_text">Button clicked! 🎉</string>
 </resources>

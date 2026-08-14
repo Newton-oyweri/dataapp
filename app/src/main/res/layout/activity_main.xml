@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/hello_world"
         android:textSize="32sp"
         android:textStyle="bold"
         android:textColor="@android:color/black" />
@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="DataPesa Android App"
+        android:text="@string/app_subtitle"
         android:textSize="18sp"
         android:textColor="@android:color/darker_gray"
         android:layout_marginTop="8dp" />
@@ -25,7 +25,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click Me"
+        android:text="@string/button_click_me"
         android:layout_marginTop="32dp"
         android:id="@+id/helloButton" />
 
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/statusText"
-        android:text="Waiting for click..."
+        android:text="@string/waiting_text"
         android:layout_marginTop="16dp"
         android:textSize="14sp" />
 

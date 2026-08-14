@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.datapesa"
+    namespace = "com.datapesa.app"
     compileSdk {
         version = release(37)
     }

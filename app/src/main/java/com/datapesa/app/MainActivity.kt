@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val statusText = findViewById<TextView>(R.id.statusText)
 
         button.setOnClickListener {
-            statusText.text = "Button clicked! 🎉"
+            statusText.setText(R.string.clicked_text)
         }
     }
 }
